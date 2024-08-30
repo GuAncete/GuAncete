@@ -25,11 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-###
 
-
-
-###
 
 <div align="center">
   <a href="https://www.instagram.com/gustavo_an7/" target="_blank">
@@ -45,10 +41,8 @@
 
 ###
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+<img align="center" height="208" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 
-<div align="center">
-  <img height="208" src="https://i.pinimg.com/originals/89/bb/06/89bb06251fb7401e094b1f6d71f3d3f4.gif"  />
-</div>
+
 
 ###
