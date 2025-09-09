@@ -2,6 +2,13 @@
 
 ###
 
+<p align="center">
+  I'm a developer in training, passionate about building web applications with <b>Laravel</b> and <b>Vue.js</b>.  
+  I love learning new technologies and sharing projects on <b>GitHub</b>, where I transform ideas into code that others can explore and contribute to 🚀.
+</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GuAncete&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuAncete&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
@@ -23,29 +30,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
 </div>
 
-
+###
 
 <div align="center">
   <a href="https://www.instagram.com/gustavo_an7/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
+  <a href="mailto:gustavoancete@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/gustavo-ancete-a3b42926b/" target="_blank">
-    <img src="https://images.squarespace-cdn.com/content/v1/606d4bb793879d12d807d4c8/1618988252161-50HJPZWN80NSUEDGDHMT/Hornet_banner_wide-1.jpg?format=2500w" alt="Hornet Hollow Knight">
-
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
 
 ###
 
-
 <div align="center">
-  <img src="[https://www.clipartmax.com/png/small/116-1165614_hollow-knight-hornet-mask.png" alt="Hollow Knight Hornet Mask @clipartmax.com](https://images.squarespace-cdn.com/content/v1/606d4bb793879d12d807d4c8/1618988252161-50HJPZWN80NSUEDGDHMT/Hornet_banner_wide-1.jpg?format=2500w)">
+  <img src="https://images.squarespace-cdn.com/content/v1/606d4bb793879d12d807d4c8/1618988252161-50HJPZWN80NSUEDGDHMT/Hornet_banner_wide-1.jpg?format=2500w" alt="Hornet Hollow Knight">
 </div>
-
 
 ###
