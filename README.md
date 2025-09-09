@@ -43,7 +43,7 @@
 
 
 <div align="center">
-  <img src="https://www.clipartmax.com/png/small/116-1165614_hollow-knight-hornet-mask.png" alt="Hollow Knight Hornet Mask @clipartmax.com">
+  <img src="[https://www.clipartmax.com/png/small/116-1165614_hollow-knight-hornet-mask.png" alt="Hollow Knight Hornet Mask @clipartmax.com](https://images.squarespace-cdn.com/content/v1/606d4bb793879d12d807d4c8/1618988252161-50HJPZWN80NSUEDGDHMT/Hornet_banner_wide-1.jpg?format=2500w)">
 </div>
 
 
